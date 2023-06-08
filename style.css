@@ -50,6 +50,7 @@
         --h1-font-size: 2.25rem;
         --h2-font-size: 1.5rem;
         --h3-font-size: 1.25rem;
+        /* --normal-font-size: .1rem; */
         --small-font-size: .875rem;
         --smaller-font-size: .813rem;
     }
@@ -451,22 +452,22 @@ img{
 }
 
 .skills__html{
-    width: 70%;
+    width: 80%;
 }
 .skills__css{
-    width: 50%;
-}
-.skills__js{
-    width: 30%;
-}
-.skills__Cpp{
     width: 70%;
 }
-.skills__C{
+.skills__js{
     width: 60%;
 }
+.skills__Cpp{
+    width: 80%;
+}
+.skills__C{
+    width: 80%;
+}
 .skills__python{
-    width: 50%;
+    width: 60%;
 }
 
 .skills__close .skills__list{
